@@ -56,3 +56,6 @@ FORTNITE BALLS
     versionRange="[1.18.2]"
     ordering="NONE"
     side="BOTH"
+[[dependencies.bushmeat]]
+modId="create"
+mandatory=true

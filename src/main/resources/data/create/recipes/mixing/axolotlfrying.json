@@ -1,0 +1,19 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "minecraft:bread"
+    },
+    {
+      "fluidTag": "forge:milk",
+      "amount": 250
+    }
+  ],
+  "results": [
+    {
+      "item": "bushmeat:fried_axolotl_leg",
+      "count": 2
+    }
+  ],
+  "heatRequirement": "heated"
+}
